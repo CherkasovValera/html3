@@ -86,27 +86,7 @@ body{
 .maim_right, .main_left{
     width: 48%;
 }
-.top{
-    padding-top: 99;
-}
-.header{
-    padding-top: 39px;
-    padding-bottom: 39px;
-}
-.top_content{
-    margin-top: 160px;
-    margin-bottom: 197px;
-}
-.subtitle{
-    margin-bottom: 10px;
 
-}
-.title{
-    margin-bottom: 40px;
-}
-.top_buttons{
-    margin-top: 50px;
-}
 .content{
     display: grid;
     gap: 30px;
